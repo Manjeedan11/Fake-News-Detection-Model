@@ -7,4 +7,5 @@ nltk
 jupyter
 tensorflow
 keras
+scikit-learn
 
